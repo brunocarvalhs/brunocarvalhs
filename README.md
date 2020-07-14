@@ -2,7 +2,7 @@
 
 - 👨‍💻 My name is Bruno Carvalho better known as a teacher.
 - 🖥 I'm currently working at [@admmed](https://www.admmed.com.br/)
-- 🔭 Computer engineering being career chosen.
+- 🔭 Computer engineering being a career choice.
 
 #### Programming Languages / Library / Frameworks 🌐
 
