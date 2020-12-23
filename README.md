@@ -20,4 +20,4 @@
 |---|---|---|---|
 
 <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhs&hide=html&layout=compact&show_icons=true&theme=dark" />
-<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=brunocarvalhs&theme=default&show_icons=true&theme=dark" />
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=brunocarvalhs&show_icons=true&theme=dark" />
