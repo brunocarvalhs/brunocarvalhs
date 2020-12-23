@@ -19,5 +19,5 @@
 | [<img src="https://maxcdn.icons8.com/Share/icon/p1em/Logos/github1600.png" alt="github logo" width="34">](https://github.com/brunocarvalhs) | [<img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram logo" width="24">](https://www.instagram.com/brunocarvalhs/) | [<img src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png" alt="twitter logo" width="34">](https://twitter.com/brunocarvalhs) | [<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" alt="stack logo" width="24">](https://stackoverflow.com/users/11430299/brunocarvalhs) |
 |---|---|---|---|
 
-<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhs&hide=html&layout=compact&show_icons=true" />
-<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=brunocarvalhs&theme=default&show_icons=true" />
+<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhs&hide=html&layout=compact&show_icons=true&theme=dark" />
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=brunocarvalhs&theme=default&show_icons=true&theme=dark" />
