@@ -1,20 +1,11 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Hi there 
+# Hi, my name is Bruno Carvalho and wellcome the my profile.
 
-- 👨‍💻 My name is Bruno Carvalho better known as a teacher.
-- 🖥 I'm currently working at [@marcasite](https://www.marcasite.com.br/)
-- 🔭 Computer engineering being a career choice.
+## About me
 
-#### Programming Languages / Library / Frameworks 🌐
+I don't have much to say, I love technology at the level of being able to spend days studying just to find out how it works, and it's amazing how knowledge can change the world, sorry I said anything but me.
+I have a degree in computer engineering.
+I currently work as a mobile engineer at Itau.
+Aiming to become a reference in the area alive studying to add more to the world and change the lives of millions with technology.
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://pngimg.com/uploads/php/php_PNG7.png" alt="php logo" width="28">](https://www.php.net/) |  [<img src="https://clipground.com/images/react-logo-png-7.png" alt="react logo" width="28">](https://reactjs.org/) |  [<img src="https://www.designbust.com/download/168/png/laravel_icon256.png" alt="laravel logo" width="28">](https://laravel.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png" alt="ionic logo" width="60">](https://ionicframework.com/) |  [<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql logo" width="28">](https://www.mysql.com/) |  [<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="mongodb logo" width="28">](https://www.mongodb.com/) | many more...
-|---|---|---|---|---|---|---|---|---|
 
-#### tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | many more...
-|---|---|---|---|---|
-
-#### Other Accounts 📱
-
-| [<img src="https://maxcdn.icons8.com/Share/icon/p1em/Logos/github1600.png" alt="github logo" width="34">](https://github.com/brunocarvalhs) | [<img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram logo" width="24">](https://www.instagram.com/brunocarvalhs/) | [<img src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png" alt="twitter logo" width="34">](https://twitter.com/brunocarvalhs) | [<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" alt="stack logo" width="24">](https://stackoverflow.com/users/11430299/brunocarvalhs) |
-|---|---|---|---|
