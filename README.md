@@ -9,7 +9,7 @@ Aiming to become a reference in the area alive studying to add more to the world
 
 ## Social
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Carvalho-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=79FE96&link=https://www.linkedin.com/in/brunocarvalhs/)](https://www.linkedin.com/in/brunocarvalhs/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Carvalho-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin&link=https://www.linkedin.com/in/brunocarvalhs/)](https://www.linkedin.com/in/brunocarvalhs/)
 [![Outlook Badge](https://img.shields.io/badge/-brunocarvalhs@outlook.com.br-2E2D2E?style=for-the-badge&labelColor=000000&logo=MicrosoftOutlook&link=mailto:brunocarvalhs@outlook.com.br)](mailto:brunocarvalhs@outlook.com.br)
 
 
