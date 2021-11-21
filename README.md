@@ -28,4 +28,4 @@ Feel free to explore of my projects :wink:
 
 > I hope that you don't judge me it :sweat_smile:	
 
-English | [Português](/README_ptbr.md)
+English | [Portuguese](/README_ptbr.md)
