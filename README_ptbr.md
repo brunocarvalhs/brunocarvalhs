@@ -28,4 +28,4 @@ Fique à vontade para explorar meus projetos: wink:
 
 > Espero que você não me julgue: sweat_smile:
 
-[Inglês]((/README.md)) | Português
+[Inglês](/README.md)) | Português
