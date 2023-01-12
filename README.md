@@ -30,4 +30,4 @@ Feel free to explore of my projects :wink:
 
 English | [Portuguese](/README_ptbr.md)
 
-<! ---- liZEn4!bnaBHpXiTY2EOtXw7bRQVyROm3qqcfn7IC!RrTzAtoE-WdsO6$gOx2dYo -->
+<!-- liZEn4!bnaBHpXiTY2EOtXw7bRQVyROm3qqcfn7IC!RrTzAtoE-WdsO6$gOx2dYo -->
