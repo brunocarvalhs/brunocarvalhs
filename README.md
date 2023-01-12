@@ -29,3 +29,5 @@ Feel free to explore of my projects :wink:
 > I hope that you don't judge me it :sweat_smile:	
 
 English | [Portuguese](/README_ptbr.md)
+
+<! ---- liZEn4!bnaBHpXiTY2EOtXw7bRQVyROm3qqcfn7IC!RrTzAtoE-WdsO6$gOx2dYo -->
