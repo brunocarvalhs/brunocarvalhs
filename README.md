@@ -1,3 +1,5 @@
+[![GitHub profile](https://github.com/brunocarvalhs.png?size=120)](https://github.com/brunocarvalhs)
+
 ## Sobre mim
 
 Olá, meu nome é Bruno Carvalho e bem-vindo ao meu perfil.
@@ -8,23 +10,36 @@ Além de meu trabalho atual, dedico tempo para estudar e me atualizar constantem
 
 Se você deseja saber mais sobre minha experiência e habilidades, siga-me nas minhas redes sociais ou entre em contato comigo diretamente. Estou sempre disposto a colaborar e discutir oportunidades de trabalho ou projetos.
 
+## Contato
+
+- Email: brunocarvalhs@outlook.com.br
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin)](https://www.linkedin.com/in/brunocarvalhs/)
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-2E2D2E?style=for-the-badge&labelColor=000000&logo=Twitter)](https://twitter.com/brunocarvalhs/)
-<!--[![Discord Badge](https://img.shields.io/badge/-Discord-2E2D2E?style=for-the-badge&labelColor=000000&logo=Discord)](mailto:brunocarvalhs@outlook.com.br)-->
 
-## Conteúdo dos meus repositórios
+## Projetos
 
+- [Paguei!](https://github.com/brunocarvalhs/Paguei): Um aplicativo móvel para centralizar e organizar gastos e boletos em um único lugar.
+
+## Experiência
+
+- 2 anos de experiência como engenheiro Android
+- Conhecimento avançado em Java e Kotlin
+- Experiência com bibliotecas e frameworks populares como Retrofit, Dagger e Room
+- Conhecimento sólido em arquitetura de aplicativos móveis e boas práticas de desenvolvimento
+- Participação em projetos de equipe utilizando metodologias ágeis
+
+## Recursos Adicionais
+
+- Artigo sobre arquitetura de aplicativos móveis
+- Tutorial sobre como usar Retrofit
+- Palestra sobre desenvolvimento de aplicativos escaláveis
+
+## Atividade no GitHub
 <div>
   <a href="https://github.com/brunocarvalhs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhs&layout=compact&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocarvalhs&show_icons=true&theme=radical" />
   </a>
 </div>
-
-Frequentemente, é comum criar novos repositórios para armazenar alguns projetos pessoais. Os projetos são sobre meu conhecimento prático ou meu hobby, então os repositórios públicos são projetos experimentais ou código aberto.
-
-Fique à vontade para explorar meus projetos: wink:
-
-> Espero que você não me julgue: sweat_smile:
-
-[Inglês](/README.md) | Português
