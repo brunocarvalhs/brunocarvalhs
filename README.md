@@ -1,5 +1,3 @@
-[![GitHub profile](https://github.com/brunocarvalhs.png?size=120)](https://github.com/brunocarvalhs)
-
 ## Sobre mim
 
 Olá, meu nome é Bruno Carvalho e bem-vindo ao meu perfil.
