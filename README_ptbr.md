@@ -1,13 +1,12 @@
 ## Sobre mim
 
-Olá, meu nome é Bruno Carvalho e bem vindo ao meu perfil.
+Olá, meu nome é Bruno Carvalho e bem-vindo ao meu perfil.
 
-Não tenho muito a dizer, adoro tecnologia a ponto de poder passar dias estudando só para descobrir como funciona, e é incrível como o conhecimento pode mudar o mundo, desculpe, não disse nada além de mim.
-Sou formado em engenharia da computação.
-Atualmente trabalho como engenheiro Android.
-Com o objetivo de se tornar referência na área, vivo estudando para agregar mais ao mundo e mudar a vida de milhões com a tecnologia.
+Sou um engenheiro de software apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades para aprender e crescer. Com minha formação em engenharia da computação e experiência como engenheiro Android, busco desenvolver soluções inovadoras e escaláveis que possam impactar positivamente a vida das pessoas.
 
-Se quiser saber mais sobre mim, siga-me nas minhas redes sociais:
+Além de meu trabalho atual, dedico tempo para estudar e me atualizar constantemente em minha área de atuação, buscando se tornar uma referência na indústria de desenvolvimento de software. Tenho um histórico comprovado de projetos bem-sucedidos e busco continuamente encontrar maneiras de contribuir para a comunidade de desenvolvimento de software.
+
+Se você deseja saber mais sobre minha experiência e habilidades, siga-me nas minhas redes sociais ou entre em contato comigo diretamente. Estou sempre disposto a colaborar e discutir oportunidades de trabalho ou projetos.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin)](https://www.linkedin.com/in/brunocarvalhs/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-2E2D2E?style=for-the-badge&labelColor=000000&logo=Twitter)](https://twitter.com/brunocarvalhs/)
