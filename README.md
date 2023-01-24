@@ -10,7 +10,7 @@ Se você deseja saber mais sobre minha experiência e habilidades, siga-me nas m
 
 ## Contato
 
-- Email: brunocarvalhs@outlook.com.br
+[![Email](https://img.shields.io/badge/-Email-2E2D2E?style=for-the-badge&labelColor=000000&&logo=gmail&logoColor=white&link=mailto:brunocarvalhs@outlook.com.br)](mailto:brunocarvalhs@outlook.com.br)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin)](https://www.linkedin.com/in/brunocarvalhs/)
 
