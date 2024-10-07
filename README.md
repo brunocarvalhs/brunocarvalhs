@@ -1,43 +1,64 @@
-## Sobre mim
+# Bruno Carvalho
 
-Olá, meu nome é Bruno Carvalho e bem-vindo ao meu perfil.
+### **Engenheiro de Software | Android Developer**
 
-Sou um engenheiro de software apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades para aprender e crescer. Com minha formação em engenharia da computação e experiência como engenheiro Android, busco desenvolver soluções inovadoras e escaláveis que possam impactar positivamente a vida das pessoas.
+Sou um **Engenheiro de Software** com foco no desenvolvimento de soluções móveis para a plataforma Android. Minha paixão por tecnologia e inovação me impulsiona a buscar constantemente novos desafios que possam impactar positivamente a vida das pessoas. Com uma sólida formação em Engenharia da Computação e mais de **5 anos de experiência** no desenvolvimento Android, utilizo as melhores práticas de desenvolvimento para criar soluções escaláveis, eficientes e de alta qualidade.
 
-Além de meu trabalho atual, dedico tempo para estudar e me atualizar constantemente em minha área de atuação, buscando se tornar uma referência na indústria de desenvolvimento de software. Tenho um histórico comprovado de projetos bem-sucedidos e busco continuamente encontrar maneiras de contribuir para a comunidade de desenvolvimento de software.
+---
 
-Se você deseja saber mais sobre minha experiência e habilidades, siga-me nas minhas redes sociais ou entre em contato comigo diretamente. Estou sempre disposto a colaborar e discutir oportunidades de trabalho ou projetos.
+## 🛠 **Habilidades Técnicas**
 
-## Contato
+- **Linguagens:** Java | Kotlin
+- **Desenvolvimento Android:** Jetpack Compose | Room | Retrofit | Dagger | Hilt | Timber
+- **Arquitetura:** Padrões SOLID | MVVM | Clean Architecture
+- **Ferramentas & Metodologias:** Git | CI/CD | Metodologias Ágeis (Scrum/Kanban)
+  
+---
 
-[![Email](https://img.shields.io/badge/-Email-2E2D2E?style=for-the-badge&labelColor=000000&&logo=gmail&logoColor=white&link=mailto:brunocarvalhs@outlook.com.br)](mailto:brunocarvalhs@outlook.com.br)
+## 🚀 **Projetos Destacados**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin)](https://www.linkedin.com/in/brunocarvalhs/)
+### [Paguei!](https://github.com/brunocarvalhs/Paguei)  
+Aplicativo móvel para **centralizar e organizar gastos e boletos**, trazendo simplicidade e praticidade na gestão de finanças pessoais.
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-2E2D2E?style=for-the-badge&labelColor=000000&logo=Twitter)](https://twitter.com/brunocarvalhs/)
+### [Friends Secrets](https://github.com/brunocarvalhs/friends-secrets)  
+Aplicativo de sorteio de **amigo secreto** que usa **Inteligência Artificial** para sugerir presentes, tornando a experiência mais divertida e personalizada.
 
-## Projetos
+---
 
-- [Paguei!](https://github.com/brunocarvalhs/Paguei): Um aplicativo móvel para centralizar e organizar gastos e boletos em um único lugar.
+## 🏆 **Experiência**
 
-## Experiência
+- Mais de **5 anos de experiência** como **Engenheiro Android**
+- Participação em equipes ágeis e projetos colaborativos, entregando soluções robustas para diversos setores.
+- Expertise em **desenvolvimento mobile** com foco em usabilidade, performance e escalabilidade.
+  
+---
 
-- 2 anos de experiência como engenheiro Android
-- Conhecimento avançado em Java e Kotlin
-- Experiência com bibliotecas e frameworks populares como Retrofit, Dagger e Room
-- Conhecimento sólido em arquitetura de aplicativos móveis e boas práticas de desenvolvimento
-- Participação em projetos de equipe utilizando metodologias ágeis
+## 📚 **Conteúdo Técnico & Contribuições**
 
-## Recursos Adicionais
+- **[Artigo sobre Arquitetura de Aplicativos Móveis](#)**  
+  Abordando as melhores práticas na construção de arquiteturas escaláveis para projetos Android.
 
-- Artigo sobre arquitetura de aplicativos móveis
-- Tutorial sobre como usar Retrofit
-- Palestra sobre desenvolvimento de aplicativos escaláveis
+- **[Tutorial sobre Retrofit](#)**  
+  Guia completo sobre como integrar a biblioteca Retrofit para consumo de APIs REST.
 
-## Atividade no GitHub
+- **[Palestra: Desenvolvimento de Aplicativos Escaláveis](#)**  
+  Apresentação focada em boas práticas para desenvolvimento de aplicativos móveis que suportam o crescimento de usuários e funcionalidades.
+
+---
+
+## 📈 **Estatísticas do GitHub**
 <div>
   <a href="https://github.com/brunocarvalhs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhs&layout=compact&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocarvalhs&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhs&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocarvalhs&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   </a>
 </div>
+
+---
+
+## 📫 **Entre em Contato**
+
+[![Email](https://img.shields.io/badge/-Email-2E2D2E?style=for-the-badge&labelColor=000000&&logo=gmail&logoColor=white&link=mailto:brunocarvalhs@outlook.com.br)](mailto:brunocarvalhs@outlook.com.br) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin)](https://www.linkedin.com/in/brunocarvalhs/)
+
+---
