@@ -33,19 +33,6 @@ Aplicativo de sorteio de **amigo secreto** que usa **Inteligência Artificial** 
   
 ---
 
-## 📚 **Conteúdo Técnico & Contribuições**
-
-- **[Artigo sobre Arquitetura de Aplicativos Móveis](#)**  
-  Abordando as melhores práticas na construção de arquiteturas escaláveis para projetos Android.
-
-- **[Tutorial sobre Retrofit](#)**  
-  Guia completo sobre como integrar a biblioteca Retrofit para consumo de APIs REST.
-
-- **[Palestra: Desenvolvimento de Aplicativos Escaláveis](#)**  
-  Apresentação focada em boas práticas para desenvolvimento de aplicativos móveis que suportam o crescimento de usuários e funcionalidades.
-
----
-
 ## 📈 **Estatísticas do GitHub**
 <div>
   <a href="https://github.com/brunocarvalhs">
